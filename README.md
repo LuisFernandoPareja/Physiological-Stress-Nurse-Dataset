@@ -33,7 +33,7 @@ monitoring using physiological and work related data collected in real clinical 
 Physiological-Stress-Nurse-Dataset/
 ├── binary_classification.ipynb
 ├── final_dataset.csv
-```
+
 
 ## Scientific Relevance
 
@@ -68,7 +68,7 @@ This dataset is intended for research and educational purposes only. It should n
 
 ---
 
-## Author
+## Authors
 Pareja Bernal Luis Fernando, Bieri Jannic Stefan, Souissi Souhir Ben, Golz Christoph (2026)
 
 ---
